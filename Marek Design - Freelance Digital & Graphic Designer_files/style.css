@@ -2681,7 +2681,7 @@ h1 {
     display: flex;
     height: 100%;
     padding-top: 125px;
-    padding-bottom: 125px;
+    padding-bottom: 0px;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
@@ -3835,7 +3835,7 @@ html.w-mod-js [data-ix=directors-icon-initial-appearance] {
         width: 50%
     }
     .testimonial {
-        padding: 135px 39px
+        padding: 20px 39px
     }
     ._8-cols {
         max-width: 1130px
@@ -4185,7 +4185,7 @@ html.w-mod-js [data-ix=directors-icon-initial-appearance] {
         text-align: center
     }
     .testimonial {
-        padding: 99px 26px
+        padding: 0px 26px
     }
     .client-logo,
     .input-actions {
@@ -4193,7 +4193,7 @@ html.w-mod-js [data-ix=directors-icon-initial-appearance] {
         width: 100%
     }
     .testimonial-text {
-        margin-bottom: 30px;
+        margin-bottom: 00px;
         font-size: 16px;
         line-height: 29px
     }
