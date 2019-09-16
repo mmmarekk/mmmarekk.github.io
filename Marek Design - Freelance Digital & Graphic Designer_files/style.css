@@ -2503,6 +2503,16 @@ h1 {
     letter-spacing: .02em
 }
 
+.p-grey {
+    padding-bottom: 40px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(218, 222, 224, .9);
+    font-size: 16px;
+    line-height: 24px;
+    text-align: justify;
+    letter-spacing: .02em
+}
+
 .input-button,
 .video-author.author {
     letter-spacing: .05em;
