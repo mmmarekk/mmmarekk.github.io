@@ -3765,9 +3765,9 @@ html.w-mod-js [data-ix=directors-icon-initial-appearance] {
         left: 0
     }
     .section-title.hero-title {
-        margin-bottom: 0;
+        margin-bottom: 20px;
         font-size: 40px;
-        line-height: 60px
+        line-height: 50px
     }
     .section-title.process-title {
         padding-left: 0

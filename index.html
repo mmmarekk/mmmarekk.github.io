@@ -239,11 +239,11 @@
       }
 
       #likeTwo {
-        display: none !important;
+        display: flex !important;
       }
 
       #likeThree {
-        display: flex;
+        display: none;
       }
     }
 
@@ -252,6 +252,12 @@
         width: 41% !important;
       }
     }
+
+    @media (max-width: 1170px) and (min-width: 992px) {
+    .container.container-video {
+      padding: 30px 0px 0px;
+    }
+  }
 
     @media (max-width: 1000px) {
       #likeOne {
@@ -270,6 +276,12 @@
     @media (max-width: 900px) and (min-width: 768px) {
       .hero-title {
         font-size: 40px !important;
+      }
+    }
+
+    @media (max-width: 900px) and (min-width: 768px) {
+      .container.container-video {
+        padding: 30px 0px 0px;
       }
     }
 
@@ -332,7 +344,7 @@
   <div data-ix="copyright-display-logo-display" class="welcome full w-hidden-small w-hidden-tiny">
     <div data-ix="fade-on-load" class="container container-video">
       <div class="container"><img src="Marek Design - Freelance Digital & Graphic Designer_files/MD-logo-svg.svg" width="151" data-ix="hero-fade-1" alt="" class="overdose-logo" />
-        <h1 data-ix="hero-fade-2" class="section-title hero-title">Creative Digital &amp;<br />Graphic Designer.</h1>
+        <h1 data-ix="hero-fade-2" class="section-title hero-title">Creative Digital &amp; Graphic Designer.</h1>
         <div>
           <div class="uppercase"><span data-ix="hero-fade-5" class="dont-do-3">I</span> <span data-ix="hero-fade-6" class="dont-do-4 red-color">dON&#x27;T:</span></div>
           <div id="likeTwo" class="flex-2-cols-wrapper w-hidden-medium w-hidden-small w-hidden-tiny">
