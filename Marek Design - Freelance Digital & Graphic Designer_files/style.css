@@ -3025,11 +3025,11 @@ h1 {
 }
 
 .input-button:hover {
-    background-color: #8f1f25
+    background-color: #AC191F
 }
 
 .red {
-    color: #a51f25;
+    color: #cf1f25;
     font-size: 16px;
     line-height: 22px
 }
@@ -4333,7 +4333,10 @@ html.w-mod-js [data-ix=directors-icon-initial-appearance] {
         -webkit-box-align: center;
         -webkit-align-items: center;
         -ms-flex-align: center;
-        align-items: center
+        align-items: center;
+        background-image: url(https://raw.githubusercontent.com/mmmarekk/mmmarekk.github.io/master/Marek%20Design%20-%20Freelance%20Digital%20%26%20Graphic%20Designer_files/MD-mobile-img-2.png);
+        background-position: 0 0;
+        background-size: cover;
     }
     .contact-mobile {
         width: 100%;
@@ -4556,6 +4559,7 @@ html.w-mod-js [data-ix=directors-icon-initial-appearance] {
         background-color: #35435b;
         background-image: url(https://raw.githubusercontent.com/mmmarekk/mmmarekk.github.io/master/Marek%20Design%20-%20Freelance%20Digital%20%26%20Graphic%20Designer_files/MD-mobile-img-2.png);
         background-position: 0 0;
+        background-size: cover;
     }
     .column,
     .testimonial-quote {
